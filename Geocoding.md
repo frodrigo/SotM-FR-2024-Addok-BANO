@@ -132,7 +132,7 @@ Alternatives aux plugins France/français pour le Luxembourg/<del>luxembourgeois
 
 # Noms multiples
 
-![https://social.numerique.gouv.fr/@adressedatagouv/112535272731408464](2ff8a2e471e92303.jpg)
+![https://social.numerique.gouv.fr/@adressedatagouv/112535272731408464](include/2ff8a2e471e92303.jpg)
 
 ----
 
